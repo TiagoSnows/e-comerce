@@ -1,0 +1,5 @@
+# Ignora o arquivo de configuração de produção
+Model DB/DBconfig.ini
+
+# Ignora a classe de conexão de produção
+Model DB/classePadrao/conexao/conexao.class.php
